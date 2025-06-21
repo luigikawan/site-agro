@@ -32,3 +32,14 @@ border-bottom: 0.1rem solid var(--main-color);
 padding-bottom: 0.5rem;
 font-size: 2rem;
 }
+
+.carne {
+border-color: black;
+border-style: inset;
+border-width: 5px;
+margin-left: 10;
+text-align: center;
+}
+
+ 
+ 
