@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(153, 245, 176);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s linear;
+      font-family: "Roboto", sans-serif;
+
+}
+
+section{
+    padding: 3rem 2rem;
+    margin: auto;
+    max-width: 1200px;
+}
+
+.navbar a {
+    margin: 0 1rem;
+    font-size: 1.8rem;
+    color: #000000;
+}
+
+.navbar a:hover{
+color: var(--main-color);
+border-bottom: 0.1rem solid var(--main-color);
+padding-bottom: 0.5rem;
+font-size: 2rem;
+}
